@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohgoozoon.roxanna-hartig.de/sitemap.xml
